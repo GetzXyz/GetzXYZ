@@ -1,64 +1,95 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Muhammad+Hamza)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Muhammad%20Hamza&fontSize=65&color=0:0d1117,100:0d1117&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Creative%20Developer&descSize=17&descAlignY=75&descColor=8892b0&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=800&color=8892B0&center=true&vCenter=true&width=700&lines=Electrical+Engineer+%7C+Embedded+Systems+Developer;Digital+Logic+Designer+%7C+Power+Electronics+Engineer;Building+Hardware+that+Thinks+%F0%9F%A7%A0;Turning+Circuits+into+Solutions+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=⚡+Power+Electronics+Engineer;🧠+Digital+Logic+%26+Embedded+Systems+Developer;💻+C+%2F+C%2B%2B+%2F+JavaScript+Programmer;🎬+Video+Editor+%26+Graphic+Designer;🔬+NUST+Electrical+Engineering+Undergraduate;🚀+Building+Hardware+that+Thinks)](https://git.io/typing-svg)
 
 <br/>
 
+[![Email](https://img.shields.io/badge/NUST%20Mail-mhamza.ee46ceme%40student.nust.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamza.ee46ceme@student.nust.edu.pk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter/X](https://img.shields.io/badge/X%20%2F%20Twitter-@hamzaeditsz06-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamzaeditsz06)
 [![GitHub](https://img.shields.io/badge/GitHub-GetzXyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GetzXyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Location](https://img.shields.io/badge/Pakistan-Available%20Remotely-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation"/>
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
 ## 🧑‍🔬 Who Am I?
 
-I'm an **Electrical Engineering undergraduate** who lives at the intersection of **hardware and software** — designing circuits that solve real-world problems.
+🎓 &nbsp; **NUST** · Electrical Engineering Undergraduate (CEME Campus)
 
-From building a **heartbeat acquisition system** that filters noise at the register level, to simulating a fully functional **ALU** and designing **regulated power supplies** — I approach every problem with precision and purpose.
+⚡ &nbsp; Passionate about **embedded systems**, **power electronics** & **digital design**
 
-> 💡 *I don't just build circuits. I build systems that work.*
+🔧 &nbsp; Firmware developer comfortable with **bare-metal C** on **AVR microcontrollers**
+
+🧪 &nbsp; Hands-on: **Proteus · LTspice · AutoCAD · Atmel Studio · AVRDude**
+
+💻 &nbsp; Coding in **C**, **C++** and **JavaScript** — from registers to scripts
+
+🎬 &nbsp; Part-time **Video Editor & Graphic Designer** — creative work is my therapy
+
+✏️ &nbsp; I design and edit for fun, passion, and the occasional side project
+
+🤝 &nbsp; Open to **internships**, research, collaborations & freelance work
+
+🌍 &nbsp; Based in **Pakistan** — available for remote & on-site opportunities
 
 <br/>
 
-- ⚡ Deep expertise in **power electronics** and **analog circuit design**
-- 🔧 Firmware developer comfortable with **bare-metal C** and **AVR microcontrollers**
-- 📐 Digital designer skilled in **combinational and sequential logic**
-- 🧪 Hands-on with **Proteus**, **LTspice**, **AutoCAD**, **Atmel Studio**
-- 💻 Programmer in **C**, **C++**, and **JavaScript**
-- 🤝 Open to **internships**, research, and freelance hardware projects
-- 🌍 Based in **Pakistan** — available for remote & local roles
+> 💡 *I don't just build circuits. I build systems that work — and content that looks great.*
 
 <br clear="right"/>
 
 ---
 
-## ⚙️ Arsenal
+## ⚙️ Technical Arsenal
 
 <div align="center">
 
-### Languages
+**Programming Languages**
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Hardware & Simulation
+**Hardware & Simulation**
+
 ![Proteus](https://img.shields.io/badge/Proteus-Design%20Suite-1ba0d7?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-SPICE%20Simulation-900000?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-SPICE%20Sim-900000?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Drafting-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### Embedded Ecosystem
+**Embedded Ecosystem**
+
 ![ATmega32A](https://img.shields.io/badge/ATmega32A-AVR%20MCU-00979D?style=for-the-badge)
 ![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-IDE-EE2F24?style=for-the-badge)
 ![AVRDude](https://img.shields.io/badge/AVRDude-Flash%20Tool-007ACC?style=for-the-badge)
 
 </div>
+
+---
+
+## 🎨 Creative Skills
+
+<div align="center">
+
+<img align="right" width="280" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="creative"/>
+
+</div>
+
+Beyond hardware, I wear a **creative hat** too:
+
+🎬 &nbsp; **Video Editing** — cuts, color grading, motion & storytelling
+
+🖌️ &nbsp; **Graphic Design** — visual identity, thumbnails, layouts & branding
+
+✨ &nbsp; I do it for the **love of creating** — every frame and pixel matters to me
+
+📱 &nbsp; Follow my creative work on **[@hamzaeditsz06](https://x.com/hamzaeditsz06)**
+
+<br clear="right"/>
 
 ---
 
@@ -71,13 +102,12 @@ From building a **heartbeat acquisition system** that filters noise at the regis
 ### ⚡ Dual-Mode DC Power Supply
 **Role:** Power Electronics Engineer
 
-Designed a **5V / 24V (1A)** regulated linear power supply built for real laboratory use.
+Designed a **5V / 24V (1A)** regulated linear power supply for real lab use.
 
-**Highlights:**
-- 🔒 Current limiting for short-circuit protection
-- 🌡️ Thermal management for component longevity
-- 📉 Ripple reduction for clean, stable output
-- 🧪 Fully validated under variable loads
+- 🔒 Current limiting for load protection
+- 🌡️ Thermal management for longevity
+- 📉 Ripple reduction for clean DC output
+- 🧪 Validated under variable load conditions
 
 `LTspice` `Proteus` `Power Electronics`
 
@@ -87,13 +117,12 @@ Designed a **5V / 24V (1A)** regulated linear power supply built for real labora
 ### 🧠 4-Bit ALU Design
 **Role:** Digital Logic Designer
 
-Built a fully functional **Arithmetic Logic Unit** from the ground up.
+Built a fully functional **Arithmetic Logic Unit** from scratch.
 
-**Highlights:**
-- ➕ Add / Subtract operations
-- 🔀 AND / OR / XOR logic gates
+- ➕ Add / Subtract arithmetic
+- 🔀 AND / OR / XOR logic operations
 - ✅ Verified with Truth Tables
-- 📊 Timing diagram analysis
+- 📊 Timing diagram validation
 
 `Digital Logic` `Computer Architecture` `Proteus`
 
@@ -105,29 +134,28 @@ Built a fully functional **Arithmetic Logic Unit** from the ground up.
 ### 💓 Heartbeat Acquisition System
 **Role:** Embedded Developer
 
-Real-time **BPM monitor** using ATmega32A — healthcare precision at the hardware level.
+Real-time **BPM monitor** on ATmega32A — healthcare precision at register level.
 
-**Highlights:**
-- ⏱️ Hardware timers and interrupt-driven sensing
-- 🔊 Signal filtering for noise-free BPM output
-- 📡 High-accuracy real-time heart rate display
-- ⚙️ Register-level C programming
+- ⏱️ Hardware timers + interrupt-driven sensing
+- 🔊 Signal filtering for noise-free BPM
+- 📡 Accurate real-time heart rate display
+- ⚙️ Full bare-metal C implementation
 
 `ATmega32A` `C` `Embedded` `Signal Processing`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 What's Coming Next...
+### 🔭 Coming Soon...
 
-Currently exploring:
+Currently building:
 
-- 🌐 **IoT systems** with wireless sensor networks
-- 🤖 **RTOS** and real-time scheduling on AVR
-- 📟 **UART / I2C / SPI** communication protocols
-- 🔋 Advanced **switch-mode power supplies (SMPS)**
+- 🌐 **IoT** wireless sensor network project
+- 🤖 **RTOS**-based task scheduler on AVR
+- 📟 **UART / I2C / SPI** protocol deep dive
+- 🔋 **SMPS** switch-mode power supply design
 
-*More projects dropping soon — watch this space.*
+*Watch this space — things are being built.* 🔨
 
 </td>
 </tr>
@@ -145,31 +173,31 @@ Currently exploring:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025–2026 Goals
 
-```
-*Complete Electrical Engineering degree with distinction.
-
-*Build an RTOS-based embedded project.
-
-*Contribute to an open-source hardware/firmware repo.
-
-*Land a hardware/embedded systems internship.
-Deploy an IoT project on real hardware
+```bash
+[ ] Graduate with distinction from NUST CEME
+[ ] Build and deploy a full RTOS-based embedded system
+[ ] Contribute to an open-source hardware/firmware project
+[ ] Land a competitive hardware/embedded systems internship
+[ ] Launch a personal creative design portfolio
+[ ] Grow @hamzaeditsz06 with original creative content
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
-### Let's build something great together
+### 🤝 Let's Build Something Great Together
 
-*I'm always open to interesting problems, collaborations, and opportunities.*
+*Engineer by training. Creator by passion. Problem-solver by nature.*
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GetzXyz)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br/>
+
+[![Email](https://img.shields.io/badge/Email%20Me-mhamza.ee46ceme%40student.nust.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamza.ee46ceme@student.nust.edu.pk)
+[![Twitter/X](https://img.shields.io/badge/Follow%20on%20X-hamzaeditsz06-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamzaeditsz06)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 <br/>
@@ -178,6 +206,6 @@ Deploy an IoT project on real hardware
 
 <br/>
 
-*"The engineer's first problem in any design situation is to discover what the problem really is."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=130&section=footer&text=Open%20to%20Opportunities&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
