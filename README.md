@@ -18,19 +18,23 @@
 
 ## 👨‍💻 About Me
 
-```cpp
-Engineer hamza = {
-    .name       = "Muhammad Hamza",
-    .degree     = "Electrical Engineering (Undergraduate)",
-    .focus      = { "Embedded Systems", "Digital Logic", "Power Electronics" },
-    .languages  = { "C++", "C", "JavaScript" },
-    .tools      = { "Proteus", "LTspice", "AutoCAD", "Atmel Studio", "AVRDude" },
-    .mindset    = "Detail-oriented problem solver",
-    .status     = "Open to internships and collaborations"
-};
-```
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-> Detail-oriented Electrical Engineering professional with a strong academic foundation and proven expertise in **hardware design** and **firmware development**. Proficient in power electronics, embedded systems, and analog circuit design — adept at analyzing complex systems, optimizing circuit performance, and delivering robust, scalable engineering solutions.
+🎓 &nbsp; **Electrical Engineering** undergraduate with hands-on expertise in hardware and firmware
+
+⚡ &nbsp; Passionate about **embedded systems**, **power electronics**, and **digital circuit design**
+
+🔬 &nbsp; Experienced with industry-standard tools: **Proteus**, **LTspice**, **Atmel Studio**, **AutoCAD**
+
+💻 &nbsp; Proficient in **C**, **C++**, and **JavaScript** — from register-level firmware to scripting
+
+🛠️ &nbsp; Built real-world systems: ALU, BPM monitors, regulated power supplies
+
+🤝 &nbsp; Open to **internships**, research collaborations, and freelance hardware projects
+
+🌍 &nbsp; Based in **Pakistan** — available for remote and local opportunities
+
+<br clear="right"/>
 
 ---
 
@@ -38,13 +42,22 @@ Engineer hamza = {
 
 <div align="center">
 
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**EDA & Simulation Tools**
+
 ![Proteus](https://img.shields.io/badge/Proteus-Design%20Suite-1ba0d7?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-Simulation-900000?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+
+**Embedded Ecosystem**
+
 ![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-AVR-EE2F24?style=for-the-badge)
+![AVRDude](https://img.shields.io/badge/AVRDude-Programmer-007ACC?style=for-the-badge)
 ![ATmega32A](https://img.shields.io/badge/ATmega32A-Microcontroller-00979D?style=for-the-badge)
 
 </div>
