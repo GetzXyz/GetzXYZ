@@ -1,17 +1,11 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Electrical%20Engineering%20Undergraduate%20%7C%20Hardware%20%26%20Firmware%20Engineer&descColor=8892b0&descAlignY=60&descSize=16" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Electrical%20Engineering%20Undergraduate%20%7C%20Hardware%20%26%20Firmware%20Engineer&descColor=8892b0&descAlignY=60&descSize=16)
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;Digital+Logic+Designer;Power+Electronics+Engineer;C%2B%2B+%26+JavaScript+Programmer;Building+Hardware+that+Thinks" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;Digital+Logic+Designer;Power+Electronics+Engineer;C%2B%2B+%26+JavaScript+Programmer;Building+Hardware+that+Thinks)](https://git.io/typing-svg)
 
 <br/>
-<br/>
 
-<!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-GetzXyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GetzXyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
@@ -30,7 +24,7 @@ Engineer hamza = {
     .languages  = { "C++", "C", "JavaScript", "Assembly" },
     .tools      = { "Proteus", "LTspice", "AutoCAD", "Atmel Studio", "AVRDude" },
     .mindset    = "Detail-oriented problem solver",
-    .status     = "Open to internships & collaborations 🚀"
+    .status     = "Open to internships & collaborations"
 };
 ```
 
@@ -50,15 +44,15 @@ Engineer hamza = {
 
 **EDA & Simulation Tools**
 
-![Proteus](https://img.shields.io/badge/Proteus-Design%20Suite-1ba0d7?style=for-the-badge&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-Analog%20Simulation-900000?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Design%20Suite-1ba0d7?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-Analog%20Simulation-900000?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 
-**Embedded & Microcontroller Ecosystem**
+**Embedded Ecosystem**
 
-![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-AVR%20IDE-EE2F24?style=for-the-badge&logoColor=white)
-![AVRDude](https://img.shields.io/badge/AVRDude-Programmer-007ACC?style=for-the-badge&logoColor=white)
-![ATmega32A](https://img.shields.io/badge/ATmega32A-Microcontroller-00979D?style=for-the-badge&logoColor=white)
+![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-AVR%20IDE-EE2F24?style=for-the-badge)
+![AVRDude](https://img.shields.io/badge/AVRDude-Programmer-007ACC?style=for-the-badge)
+![ATmega32A](https://img.shields.io/badge/ATmega32A-Microcontroller-00979D?style=for-the-badge)
 
 </div>
 
@@ -67,6 +61,7 @@ Engineer hamza = {
 ## 🚀 Key Engineering Projects
 
 ### ⚡ Dual-Mode Linear DC Power Supply
+
 > **Role: Power Electronics Engineer**
 
 Designed a regulated **5V / 24V (1A)** dual-mode linear power supply for laboratory use.
@@ -81,9 +76,10 @@ Designed a regulated **5V / 24V (1A)** dual-mode linear power supply for laborat
 ---
 
 ### 🧠 4-Bit ALU Design
+
 > **Role: Digital Logic Designer**
 
-Developed and simulated a fully functional **Arithmetic Logic Unit** implementing core operations.
+Developed and simulated a fully functional **Arithmetic Logic Unit**.
 
 - ➕ Arithmetic: **Add / Subtract**
 - 🔀 Logical: **AND / OR / XOR**
@@ -95,6 +91,7 @@ Developed and simulated a fully functional **Arithmetic Logic Unit** implementin
 ---
 
 ### 💓 Real-Time Heartbeat Acquisition System
+
 > **Role: Embedded Developer**
 
 Built a healthcare-grade BPM monitoring system on the **ATmega32A** microcontroller.
@@ -104,7 +101,7 @@ Built a healthcare-grade BPM monitoring system on the **ATmega32A** microcontrol
 - 📊 Delivered high-accuracy **BPM output** in real-time
 - ⚙️ Programmed in **C** with full register-level control
 
-`ATmega32A` `C` `Embedded Systems` `Signal Processing` `Atmel Studio` `AVRDude`
+`ATmega32A` `C` `Embedded Systems` `Signal Processing` `Atmel Studio`
 
 ---
 
@@ -112,8 +109,8 @@ Built a healthcare-grade BPM monitoring system on the **ATmega32A** microcontrol
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GetzXyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetzXyz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GetzXyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hamza GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetzXyz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
@@ -147,8 +144,8 @@ I'm open to **internships**, **research collaborations**, and **freelance hardwa
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
 
-*"The engineer's first problem in any design situation is to discover what the problem really is."* — Unknown
+*"The engineer's first problem in any design situation is to discover what the problem really is."*
 
 </div>
