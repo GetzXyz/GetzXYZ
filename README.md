@@ -148,11 +148,14 @@ Currently exploring:
 ## 🎯 2025 Goals
 
 ```
-[ ] Complete Electrical Engineering degree with distinction
-[ ] Build an RTOS-based embedded project
-[ ] Contribute to an open-source hardware/firmware repo
-[ ] Land a hardware/embedded systems internship
-[ ] Deploy an IoT project on real hardware
+*Complete Electrical Engineering degree with distinction.
+
+*Build an RTOS-based embedded project.
+
+*Contribute to an open-source hardware/firmware repo.
+
+*Land a hardware/embedded systems internship.
+Deploy an IoT project on real hardware
 ```
 
 ---
