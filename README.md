@@ -176,12 +176,16 @@ Currently building:
 ## 🎯 2025–2026 Goals
 
 ```bash
-[ ] Graduate with distinction from NUST CEME
-[ ] Build and deploy a full RTOS-based embedded system
-[ ] Contribute to an open-source hardware/firmware project
-[ ] Land a competitive hardware/embedded systems internship
-[ ] Launch a personal creative design portfolio
-[ ] Grow @hamzaeditsz06 with original creative content
+## 🎯 2025–2026 Goals
+
+| Status | Goal |
+|:------:|------|
+| 🔄 | Graduate with **distinction** from NUST CEME |
+| 🔄 | Build and deploy a full **RTOS-based** embedded system |
+| 🔄 | Contribute to an **open-source** hardware/firmware project |
+| 🔄 | Land a competitive **hardware/embedded internship** |
+| 🔄 | Launch a personal **creative design portfolio** |
+| 🔄 | Grow **@hamzaeditsz06** with original creative content |
 ```
 
 ---
