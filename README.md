@@ -186,9 +186,9 @@ Currently building:
 
  💼 Land a competitive hardware/embedded internship.
 
- 🎨 Launch a personal creative design portfolio
+ 🎨 Launch a personal creative design portfolio.
 
-📱 Grow [@hamzaeditsz06](https://x.com/hamzaeditsz06) with original creative content
+ 📱 Grow X Profile Link (https://x.com/hamzaeditsz06) with original creative content.
 ```
 
 ---
