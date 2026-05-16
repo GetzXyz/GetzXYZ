@@ -1,136 +1,179 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Hamza 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Muhammad+Hamza)](https://git.io/typing-svg)
 
-### Electrical Engineering Undergraduate | Embedded Systems | Power Electronics | Digital Logic
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=800&color=8892B0&center=true&vCenter=true&width=700&lines=Electrical+Engineer+%7C+Embedded+Systems+Developer;Digital+Logic+Designer+%7C+Power+Electronics+Engineer;Building+Hardware+that+Thinks+%F0%9F%A7%A0;Turning+Circuits+into+Solutions+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-GetzXyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GetzXyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;Digital+Logic+Designer;Power+Electronics+Engineer;C%2B%2B+%26+JavaScript+Programmer)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Location](https://img.shields.io/badge/Pakistan-Available%20Remotely-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation"/>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+## 🧑‍🔬 Who Am I?
 
-🎓 &nbsp; **Electrical Engineering** undergraduate with hands-on expertise in hardware and firmware
+I'm an **Electrical Engineering undergraduate** who lives at the intersection of **hardware and software** — designing circuits that solve real-world problems.
 
-⚡ &nbsp; Passionate about **embedded systems**, **power electronics**, and **digital circuit design**
+From building a **heartbeat acquisition system** that filters noise at the register level, to simulating a fully functional **ALU** and designing **regulated power supplies** — I approach every problem with precision and purpose.
 
-🔬 &nbsp; Experienced with industry-standard tools: **Proteus**, **LTspice**, **Atmel Studio**, **AutoCAD**
+> 💡 *I don't just build circuits. I build systems that work.*
 
-💻 &nbsp; Proficient in **C**, **C++**, and **JavaScript** — from register-level firmware to scripting
+<br/>
 
-🛠️ &nbsp; Built real-world systems: ALU, BPM monitors, regulated power supplies
-
-🤝 &nbsp; Open to **internships**, research collaborations, and freelance hardware projects
-
-🌍 &nbsp; Based in **Pakistan** — available for remote and local opportunities
+- ⚡ Deep expertise in **power electronics** and **analog circuit design**
+- 🔧 Firmware developer comfortable with **bare-metal C** and **AVR microcontrollers**
+- 📐 Digital designer skilled in **combinational and sequential logic**
+- 🧪 Hands-on with **Proteus**, **LTspice**, **AutoCAD**, **Atmel Studio**
+- 💻 Programmer in **C**, **C++**, and **JavaScript**
+- 🤝 Open to **internships**, research, and freelance hardware projects
+- 🌍 Based in **Pakistan** — available for remote & local roles
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚙️ Arsenal
 
 <div align="center">
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**EDA & Simulation Tools**
-
+### Hardware & Simulation
 ![Proteus](https://img.shields.io/badge/Proteus-Design%20Suite-1ba0d7?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-Simulation-900000?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-SPICE%20Simulation-900000?style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Drafting-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 
-**Embedded Ecosystem**
-
-![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-AVR-EE2F24?style=for-the-badge)
-![AVRDude](https://img.shields.io/badge/AVRDude-Programmer-007ACC?style=for-the-badge)
-![ATmega32A](https://img.shields.io/badge/ATmega32A-Microcontroller-00979D?style=for-the-badge)
+### Embedded Ecosystem
+![ATmega32A](https://img.shields.io/badge/ATmega32A-AVR%20MCU-00979D?style=for-the-badge)
+![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-IDE-EE2F24?style=for-the-badge)
+![AVRDude](https://img.shields.io/badge/AVRDude-Flash%20Tool-007ACC?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Key Engineering Projects
+## 🚀 Engineering Projects
 
-### ⚡ Dual-Mode Linear DC Power Supply
-> **Role: Power Electronics Engineer**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designed a regulated **5V / 24V (1A)** dual-mode linear power supply for laboratory use.
+### ⚡ Dual-Mode DC Power Supply
+**Role:** Power Electronics Engineer
 
-- 🔧 Implemented **current limiting** circuitry for load protection
-- 🌡️ Optimized **thermal management** to prevent component stress
-- 📉 Achieved low **ripple voltage** for stable, clean DC output
+Designed a **5V / 24V (1A)** regulated linear power supply built for real laboratory use.
 
-`LTspice` `Proteus` `Analog Design` `Power Electronics`
+**Highlights:**
+- 🔒 Current limiting for short-circuit protection
+- 🌡️ Thermal management for component longevity
+- 📉 Ripple reduction for clean, stable output
+- 🧪 Fully validated under variable loads
 
----
+`LTspice` `Proteus` `Power Electronics`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 4-Bit ALU Design
-> **Role: Digital Logic Designer**
+**Role:** Digital Logic Designer
 
-Developed and simulated a fully functional **Arithmetic Logic Unit**.
+Built a fully functional **Arithmetic Logic Unit** from the ground up.
 
-- ➕ Arithmetic: **Add / Subtract**
-- 🔀 Logical: **AND / OR / XOR**
-- ✅ Validated via **Truth Table** and **Timing Diagrams**
+**Highlights:**
+- ➕ Add / Subtract operations
+- 🔀 AND / OR / XOR logic gates
+- ✅ Verified with Truth Tables
+- 📊 Timing diagram analysis
 
 `Digital Logic` `Computer Architecture` `Proteus`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💓 Heartbeat Acquisition System
+**Role:** Embedded Developer
+
+Real-time **BPM monitor** using ATmega32A — healthcare precision at the hardware level.
+
+**Highlights:**
+- ⏱️ Hardware timers and interrupt-driven sensing
+- 🔊 Signal filtering for noise-free BPM output
+- 📡 High-accuracy real-time heart rate display
+- ⚙️ Register-level C programming
+
+`ATmega32A` `C` `Embedded` `Signal Processing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 What's Coming Next...
+
+Currently exploring:
+
+- 🌐 **IoT systems** with wireless sensor networks
+- 🤖 **RTOS** and real-time scheduling on AVR
+- 📟 **UART / I2C / SPI** communication protocols
+- 🔋 Advanced **switch-mode power supplies (SMPS)**
+
+*More projects dropping soon — watch this space.*
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 💓 Real-Time Heartbeat Acquisition System
-> **Role: Embedded Developer**
-
-Built a healthcare-grade BPM monitoring system on the **ATmega32A** microcontroller.
-
-- 🏥 Integrated **hardware timers and interrupts** for precise heart rate sensing
-- 🔊 Implemented **signal filtering** to eliminate noise from raw sensor data
-- 📊 Delivered high-accuracy **BPM output** in real-time
-
-`ATmega32A` `C` `Embedded Systems` `Signal Processing` `Atmel Studio`
-
----
-
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GetzXyz&show_icons=true&theme=tokyonight&hide_border=true" alt="Hamza GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetzXyz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GetzXyz&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 📚 Currently
+## 🎯 2025 Goals
 
-- 🎓 Completing my **Electrical Engineering** degree
-- 🔬 Deepening expertise in **RTOS and bare-metal embedded systems**
-- 🌐 Expanding into **IoT and wireless sensor networks**
-- 💡 Always looking for challenging hardware/firmware problems to solve
+```
+[ ] Complete Electrical Engineering degree with distinction
+[ ] Build an RTOS-based embedded project
+[ ] Contribute to an open-source hardware/firmware repo
+[ ] Land a hardware/embedded systems internship
+[ ] Deploy an IoT project on real hardware
+```
 
 ---
 
 <div align="center">
 
-### 🤝 Open to internships, research collaborations, and freelance hardware/firmware projects
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-GetzXyz-181717?style=flat-square&logo=github)](https://github.com/GetzXyz)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail)](mailto:your@email.com)
+### Let's build something great together
+
+*I'm always open to interesting problems, collaborations, and opportunities.*
+
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GetzXyz)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GetzXyz&color=00d4ff&style=for-the-badge&label=Profile+Views)
+
+<br/>
 
 *"The engineer's first problem in any design situation is to discover what the problem really is."*
 
