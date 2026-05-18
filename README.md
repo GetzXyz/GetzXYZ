@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/NUST%20Mail-mhamza.ee46ceme%40student.nust.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamza.ee46ceme@student.nust.edu.pk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter/X](https://img.shields.io/badge/X%20%2F%20Twitter-@hamzaeditsz06-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamzaeditsz06)
+[![Email](https://img.shields.io/badge/NUST%20Mail-mhamza.ee46ceme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamza.ee46ceme@student.nust.edu.pk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-78407b33b/)
+[![Twitter/X](https://img.shields.io/badge/X-hamzaeditsz06-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamzaeditsz06)
 [![GitHub](https://img.shields.io/badge/GitHub-GetzXyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GetzXyz)
 
 </div>
@@ -21,21 +21,21 @@
 
 🎓 &nbsp; **NUST** · Electrical Engineering Undergraduate (CEME Campus)
 
-⚡ &nbsp; Passionate about **embedded systems**, **power electronics** & **digital design**
+⚡ &nbsp; Passionate about **embedded systems**, **power electronics** and **digital design**
 
 🔧 &nbsp; Firmware developer comfortable with **bare-metal C** on **AVR microcontrollers**
 
-🧪 &nbsp; Hands-on: **Proteus · LTspice · AutoCAD · Atmel Studio · AVRDude**
+🧪 &nbsp; Hands-on with **Proteus · LTspice · AutoCAD · Atmel Studio · AVRDude**
 
 💻 &nbsp; Coding in **C**, **C++** and **JavaScript** — from registers to scripts
 
-🎬 &nbsp; Part-time **Video Editor & Graphic Designer** — creative work is my therapy
+🎬 &nbsp; Part-time **Video Editor and Graphic Designer** — creative work is my therapy
 
-✏️ &nbsp; I design and edit for fun, passion, and the occasional side project
+✨ &nbsp; I design and edit for fun, passion, and the occasional side project
 
-🤝 &nbsp; Open to **internships**, research, collaborations & freelance work
+🤝 &nbsp; Open to **internships**, research, collaborations and freelance work
 
-🌍 &nbsp; Based in **Pakistan** — available for remote & on-site opportunities
+🌍 &nbsp; Based in **Pakistan** — available for remote and on-site opportunities
 
 <br/>
 
@@ -55,7 +55,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Hardware & Simulation**
+**Hardware and Simulation**
 
 ![Proteus](https://img.shields.io/badge/Proteus-Design%20Suite-1ba0d7?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-SPICE%20Sim-900000?style=for-the-badge)
@@ -71,21 +71,17 @@
 
 ---
 
-## 🎨 Creative Skills
+## 🎨 Creative Side
 
-<div align="center">
+<img align="right" width="260" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="creative"/>
 
-<img align="right" width="280" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="creative"/>
+Beyond hardware, I wear a creative hat too:
 
-</div>
+🎬 &nbsp; **Video Editing** — cuts, color grading, motion and storytelling
 
-Beyond hardware, I wear a **creative hat** too:
+🖌️ &nbsp; **Graphic Design** — visual identity, thumbnails, layouts and branding
 
-🎬 &nbsp; **Video Editing** — cuts, color grading, motion & storytelling
-
-🖌️ &nbsp; **Graphic Design** — visual identity, thumbnails, layouts & branding
-
-✨ &nbsp; I do it for the **love of creating** — every frame and pixel matters to me
+✨ &nbsp; I do it for the love of creating — every frame and pixel matters to me
 
 📱 &nbsp; Follow my creative work on **[@hamzaeditsz06](https://x.com/hamzaeditsz06)**
 
@@ -136,7 +132,7 @@ Built a fully functional **Arithmetic Logic Unit** from scratch.
 
 Real-time **BPM monitor** on ATmega32A — healthcare precision at register level.
 
-- ⏱️ Hardware timers + interrupt-driven sensing
+- ⏱️ Hardware timers and interrupt-driven sensing
 - 🔊 Signal filtering for noise-free BPM
 - 📡 Accurate real-time heart rate display
 - ⚙️ Full bare-metal C implementation
@@ -150,10 +146,10 @@ Real-time **BPM monitor** on ATmega32A — healthcare precision at register leve
 
 Currently building:
 
-- 🌐 **IoT** wireless sensor network project
-- 🤖 **RTOS**-based task scheduler on AVR
-- 📟 **UART / I2C / SPI** protocol deep dive
-- 🔋 **SMPS** switch-mode power supply design
+- 🌐 IoT wireless sensor network project
+- 🤖 RTOS-based task scheduler on AVR
+- 📟 UART / I2C / SPI protocol deep dive
+- 🔋 SMPS switch-mode power supply design
 
 *Watch this space — things are being built.* 🔨
 
@@ -175,9 +171,6 @@ Currently building:
 
 ## 🎯 2025–2026 Goals
 
-```bash
-## 🎯 2025–2026 Goals
-
  🎓  Graduate with distinction from NUST CEME.
 
  🤖  Build and deploy a full RTOS-based embedded system.
@@ -189,7 +182,6 @@ Currently building:
  🎨 Launch a personal creative design portfolio.
 
  📱 Grow X Profile Link (https://x.com/hamzaeditsz06) with original creative content.
-```
 
 ---
 
@@ -203,9 +195,10 @@ Currently building:
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email%20Me-mhamza.ee46ceme%40student.nust.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamza.ee46ceme@student.nust.edu.pk)
-[![Twitter/X](https://img.shields.io/badge/Follow%20on%20X-hamzaeditsz06-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamzaeditsz06)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamza.ee46ceme@student.nust.edu.pk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-78407b33b/)
+[![Twitter/X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamzaeditsz06)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GetzXyz)
 
 <br/>
 
